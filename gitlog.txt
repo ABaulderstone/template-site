@@ -1,0 +1,11 @@
+commit 08defb7de225f58dc0577ae7b8251d7e1057e8af
+Author: Alex baulderstone <alex.baulderstone@coderacademy.edu.au>
+Date:   Wed Nov 4 15:50:01 2020 +1030
+
+    created new file
+
+commit 601c5aef73cd2490c380fd657f675d20877d911b
+Author: Alex baulderstone <alex.baulderstone@coderacademy.edu.au>
+Date:   Wed Nov 4 15:39:11 2020 +1030
+
+    set up file structure
