@@ -1,3 +1,9 @@
+commit ba2b6f86820a27cbf187056d1c45c38a10eff45a
+Author: Alex baulderstone <alex.baulderstone@coderacademy.edu.au>
+Date:   Wed Nov 4 15:52:21 2020 +1030
+
+    created git log file
+
 commit 08defb7de225f58dc0577ae7b8251d7e1057e8af
 Author: Alex baulderstone <alex.baulderstone@coderacademy.edu.au>
 Date:   Wed Nov 4 15:50:01 2020 +1030
